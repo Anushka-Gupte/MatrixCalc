@@ -1,0 +1,2 @@
+<h1>Matrix Calculator</h1>
+<p>A simple yet powerful matrix calculator for basic matrix operations using Numpy and Streamlit.</p>
